@@ -1,8 +1,8 @@
 Hello! I’m @AlexHuggler 🙋‍♂️
 - 👨‍💻🛠️ data analytics professional, Graduate Student, and life long learner 🤓
 - 👀 My interests are in utilizing python libraries to extract information from data (Machine Learning tasks, Text Analysis, etc) 
-- 🌱 I’m currently learning to be a better python programmer and more experienced data scientist
-- Ciao!
+
+Ciao!
 
 
 
