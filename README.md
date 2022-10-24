@@ -1,8 +1,9 @@
-Hello! I’m @AlexHuggler 🙋‍♂️
-- 👨‍💻🛠️ data analytics professional, Graduate Student, and life long learner 🤓
-- 👀 My interests are in utilizing python libraries to extract information from data (Machine Learning tasks, Text Analysis, etc) 
+Hello! I’m Alex Huggler 🙋‍♂️
+- 🛠️ Data Analytics Professional, Certified Machine Learning Practitioner,and MSc Business Analytics student
+- 👀 My interests are Data Science and Data Engineering (Machine Learning tasks, NLP, Text Analysis, IoT Analytics, etc) 
+-
 
-Ciao!
+
 
 
 
