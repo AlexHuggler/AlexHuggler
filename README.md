@@ -1,6 +1,6 @@
 Hello! I’m Alex Huggler 🙋‍♂️
-- 🛠️ Data Analytics Professional, Certified Machine Learning Practitioner,and MSc Business Analytics student
-- 👀 My interests are Data Science and Data Engineering (Machine Learning tasks, NLP, Text Analysis, IoT Analytics, etc) 
+- 🛠️ Data Analytics Professional, Certified Machine Learning Practitioner,and MSc in Business Analytics
+- 👀 My interests are Data Science, Data Engineering , and extracting non-intuitive information from vast amounts of data
 
 
 
