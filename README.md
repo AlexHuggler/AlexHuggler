@@ -14,4 +14,4 @@ AlexHuggler/AlexHuggler is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![CatTypingGIF](https://user-images.githubusercontent.com/47063695/197125129-f2bc4344-de8d-4887-b343-0caa17d14f41.gif)
+
